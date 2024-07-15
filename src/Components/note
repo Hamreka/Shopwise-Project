@@ -1,0 +1,29 @@
+<div className=' py-10 pl-10 pr-10 flex  '>
+          <div className=' flex border-[1px] border-gray-100 py-5 px-[100px]'>
+            <div className=' text-[#ff405f] py-10 pr-5'><i class="fa-solid fa-truck-fast fa-2xl"></i></div>
+            <div className=' text-start py-1'>
+              <h6 className=' font-bold'>Free Delivery</h6>
+              <p>Worldwide</p>
+            </div>
+          </div>
+          <div className=' flex border-[1px] border-gray-100 py-5 px-[100px]'>
+            <div className=' text-[#ff405f] py-10 pr-5'><i class="fa-solid fa-money-bill-transfer fa-2xl"></i></div>
+            <div className=' text-start py-1 '>
+              <h6 className=' font-bold'>Money Returns</h6>
+              <p>30 Days money return</p>
+            </div>
+          </div>
+          <div  className=' flex  border-[1px] border-gray-100 py-5 px-[100px]'>
+            <div className=' text-[#ff405f] py-10 pr-5'><i class="fa-solid fa-headset fa-2xl"></i></div>
+            <div className=' text-start py-1'>
+              <h6 className=' font-bold'>27/4 Online Support</h6>
+              <p>Customer Support</p>
+            </div>
+          </div>
+          <div  className=' flex border-[1px] gap-2  border-gray-100 py-5 px-[100px]'>
+            <div className=' text-[#ff405f] py-10 pr-5'><i class="fa-solid fa-money-check-dollar fa-2xl"></i></div>
+            <div className=' text-start py-1'>
+              <h6 className=' font-bold'>Payment Security</h6>
+              <p>Safe Payment</p>
+            </div>
+          </div>
